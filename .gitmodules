@@ -1,0 +1,3 @@
+[submodule "passman"]
+	path = passman
+	url = https://github.com/mnbmnd/terminal-password-manager.git
